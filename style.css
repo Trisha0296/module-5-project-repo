@@ -1,0 +1,37 @@
+body{
+    font-family: 'EB Garamond', serif;
+    margin: 0px;
+}
+h1{
+font-size: 50px;
+text-align: center;
+}
+.span-name{
+    color: rgb(230, 4, 211);
+    font-size: 35px;
+    margin-left: 10%;
+}
+section{
+    display: flex;
+}
+.div-Text{
+    width: 50%;
+    padding-left: 15%;
+}
+.div-Text img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color:rgb(230, 4, 211) ;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: azure;
+    font-weight: 700;
+
+}
+.top-backgroundimg{
+    background-image: url(imags/background\ one.png);
+    background-repeat: no-repeat;
+    
+}
